@@ -2,7 +2,6 @@
 # MTA - Spring 2021-2022.
 # Final Home Exercise.
 
-# ID of  student: 318674611
 # First and Last Names of student: Einav Yoni
 
 
